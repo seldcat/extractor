@@ -1,0 +1,39 @@
+{
+  "extensionName": {
+    "message": "Extractor de la plantilla híbrido",
+    "description": "Extractor de la plantilla híbrido."
+  },
+
+  "messageTitle": {
+    "message": "...Extrayendo la plantilla de la web..."
+  },
+
+  "linksNull": {
+    "message": "Lo sentimos, no podemos extraer la plantilla de esta página porque no tiene enlaces a su sitio web (es una página aislada)."
+  },
+
+  "bodyMessage": {
+    "message": "Este proceso puede llevar unos segundos. Por favor espere."
+  },
+
+  "error": {
+    "message": "No podemos extraer la plantilla"
+  },
+
+  "extensionDescription": {
+    "message": "Extrae la plantilla de una página web.",
+    "description": "Extrae la plantilla de una página web."
+  },
+
+  "backToWeb": {
+    "message": "Vuelve a la web original"
+  },
+
+  "extractingMessage": {
+    "message": "Extrayendo..."
+  },
+
+  "backToTemplate": {
+    "message": "Vuelve a la plantilla extraída"
+  }
+}

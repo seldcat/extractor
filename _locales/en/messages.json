@@ -1,0 +1,39 @@
+{
+  "extensionName": {
+    "message": "Hybrid Template Extractor",
+    "description": "Hybrid Template Extractor"
+  },
+
+  "messageTitle": {
+    "message": "...Extracting the web template..."
+  },
+
+  "bodyMessage": {
+    "message": "This process can take a few seconds. Please wait."
+  },
+
+  "linksNull": {
+    "message": "Sorry, but we can't extract the template of this page because it does not contain links to the web page (isolated webpage)."
+  },
+
+  "error": {
+    "message": "We can't extract the template"
+  },
+
+  "extensionDescription": {
+    "message": "Extracts the template from a Webpage",
+    "description": "Description of the extension."
+  },
+
+  "backToWeb": {
+    "message": "Back to the original website"
+  },
+
+  "extractingMessage": {
+    "message": "Extracting..."
+  },
+
+  "backToTemplate": {
+    "message": "Back to the extracted template"
+  }
+}
